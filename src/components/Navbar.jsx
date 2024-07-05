@@ -1,4 +1,5 @@
-import NavBarItem from "./NavBarItem"
+
+import NavBarItem from "./NavbarItem.jsx"
 
 function NavBar() {
     return (
