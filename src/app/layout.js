@@ -3,8 +3,8 @@ import "./globals.css";
 // import Header from "@/Components/Header";
 import Header from "./../components/Header";
 import Provider from "./Provider";
-import NavBar from "./../Components/NavBar";
-import SearchBox from "./../Components/SearchBox";
+import NavBar from "./../components/NavBar";
+import SearchBox from "./../components/SearchBox";
 
 
 const inter = Inter({ subsets: ["latin"] });
