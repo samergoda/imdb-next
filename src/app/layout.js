@@ -3,7 +3,7 @@ import "./globals.css";
 // import Header from "@/Components/Header";
 import Header from "./../components/Header";
 import Provider from "./Provider";
-import NavBar from "./../components/NavBar";
+import NavBar from "./../components/Navbar";
 import SearchBox from "./../components/SearchBox";
 
 
