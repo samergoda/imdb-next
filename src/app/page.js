@@ -1,5 +1,6 @@
-import Results from "./../Components/Results";
-import Spinner from "./../Components/Spinner";
+// import Results from "./../Components/Results";
+import Results from "./../components/Results";
+import Spinner from "./../components/Spinner";
 
 const API_KEY = process.env.API_KEY;
 async function Home({ searchParams }) {
